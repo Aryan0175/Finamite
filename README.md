@@ -88,8 +88,8 @@ npm run dev
 ## 🔐 Login Credentials (Demo Account)
 If you wish to test the application without registering a new account, you can use the following demo credentials:
 
-* **Email:** `finamite@gmail.com.com`
-* **Password:** `FINAMITE@1234`
+* **Email:** `finamite@gmail.com`
+* **Password:** `FINAMITE@123`
 
 
 
